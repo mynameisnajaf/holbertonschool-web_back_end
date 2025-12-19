@@ -1,0 +1,4 @@
+// inserts a document in the collection school
+my_db.tutorial.insertOne({
+    "name": "Holberton school"
+})
